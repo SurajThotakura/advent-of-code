@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="./src/assets/suraj-thotakura-logo.svg" alt="logo" width="100" height="auto" />
   <br />
   <h1>Advent of code</h1>
   
