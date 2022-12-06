@@ -6,6 +6,8 @@ The ship has a giant cargo crane capable of moving crates between stacks. To ens
 
 The Elves don't want to interrupt the crane operator during this delicate procedure, but they forgot to ask her which crate will end up where, and they want to be ready to unload them as soon as possible so they can embark.
 
+## Part One
+
 They do, however, have a drawing of the starting stacks of crates and the rearrangement procedure (your puzzle input). For example:
 
 ```text
@@ -66,7 +68,8 @@ After the rearrangement procedure completes, what crate ends up on top of each s
 
 Your puzzle answer was JCMHLVGMG.
 
---- Part Two ---
+## Part Two
+
 As you watch the crane operator expertly rearrange the crates, you notice the process isn't following your prediction.
 
 Some mud was covering the writing on the side of the crane, and you quickly wipe it away. The crane isn't a CrateMover 9000 - it's a CrateMover 9001.
